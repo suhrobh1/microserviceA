@@ -49,4 +49,14 @@ _**Recieve data from Microservice A**_
 2. Responce handling:
     const result = await fetchBMI(Number(age), gender, Number(height), Number(weight));
     console.log('BMI Result:', result);
+
+
+
+**UML sequence diagram: **
+
+![image](https://github.com/user-attachments/assets/68391881-c5a0-464d-89e0-6c22b489c9b1)
+
+
+
+
    
