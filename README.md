@@ -52,7 +52,7 @@ _**Recieve data from Microservice A**_
 
 
 
-**UML sequence diagram: **
+_**UML sequence diagram: **_
 
 ![image](https://github.com/user-attachments/assets/68391881-c5a0-464d-89e0-6c22b489c9b1)
 
