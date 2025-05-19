@@ -54,6 +54,12 @@ _**Recieve data from Microservice A**_
 
 __**UML sequence diagram: **__
 
+I. User inputs person's data into app: age, gender, height, and weight.
+II. The app makes a request to the microservice A and provides person's data.
+III. Microservice calculates the BMI.
+IV. Microservice sends responce with BMI number. Lifecycle terminated.
+V. The app provides BMI info to the User. Lifecycle terminated. 
+
 ![image](https://github.com/user-attachments/assets/68391881-c5a0-464d-89e0-6c22b489c9b1)
 
 
