@@ -1,6 +1,7 @@
-async function fetchHotels(age, gender, height, weight) {
+async function fetchBMI(age, gender, height, weight) {
     try {
-     const response = await fetch(`https://microservicea-production.up.railway.app/bmi_fetch`, {
+     //const response = await fetch(`https://microservicea-production.up.railway.app/bmi_fetch`, {
+       const response = await fetch(`http://localhost:3030/bmi_fetch`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

@@ -1,7 +1,7 @@
 import aiohttp
 import asyncio
 
-async def fetch_hotels(age, gender, height, weight):
+async def fetch_bmi(age, gender, height, weight):
     url = "https://microservicea-production.up.railway.app/bmi_fetch"
     payload = {
         "age": age,
