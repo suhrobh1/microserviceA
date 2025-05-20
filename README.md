@@ -16,7 +16,7 @@ height	 Number	   Height in inches
 weight	 Number	   Weight in pounds
 
 3. Example of request: 
-
+(``
 async function fetchBMI(age, gender, height, weight) {
   try {
      //const response = await fetch(`https://microservicea-production.up.railway.app/bmi_fetch`, {
@@ -40,7 +40,7 @@ async function fetchBMI(age, gender, height, weight) {
     throw err;
   }
 }
-
+``)
 
 _**Recieve data from Microservice A**_
 
