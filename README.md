@@ -49,8 +49,8 @@ async function fetchBMI(age, gender, height, weight) {
 2. Responce handling:
    ```
     const result = await fetchBMI(Number(age), gender, Number(height), Number(weight));
-    console.log('BMI Result:', result);
-  ```
+    console.log('BMI Result:', result);```
+  
 
 
 ## UML sequence diagram:  
