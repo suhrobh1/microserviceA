@@ -1,7 +1,7 @@
 - Communication Contract -
 
 
-_**Data request from Microservice A**_
+## Data request from Microservice A
 
   
 1. To request data, make an HTTP POST request to:
