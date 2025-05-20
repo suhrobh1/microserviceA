@@ -71,7 +71,7 @@ _**Recieve data from Microservice A**_
 * How is your teammate going to access your microservice? **https://github.com/suhrobh1/microserviceA.git  It can be ran locally and its available remotely via URL**
 * If your teammate cannot access/call YOUR microservice, what should they do? Can you be available to help them? What’s your availability? **They can contact me via Discord, I am available 16hrs per day**
 * If your teammate cannot access/call your microservice, by when do they need to tell you? Provide a specific date to ensure they have a clear deadline. **May 27th would be good**
-* Is there anything else your teammate needs to know? Anything you’re worried about? Any assumptions you’re making? Any other mitigations / backup plans you want to mention or want to discuss with your teammate?
+* Is there anything else your teammate needs to know? Anything you’re worried about? Any assumptions you’re making? Any other mitigations / backup plans you want to mention or want to discuss with your teammate?**The formula that I am using for BMI calculation needs to match theirs**
 
 
 
