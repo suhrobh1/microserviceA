@@ -42,7 +42,7 @@ async function fetchBMI(age, gender, height, weight) {
 }
 ```
 
-_**Recieve data from Microservice A**_
+## Recieve data from Microservice A
 
 1. Responce will be a number, calculated bmi.
    
