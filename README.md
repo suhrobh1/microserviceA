@@ -63,7 +63,7 @@ _**Recieve data from Microservice A**_
 ![image](https://github.com/user-attachments/assets/68391881-c5a0-464d-89e0-6c22b489c9b1)
 
 
-_**Mitigation Plan**_
+## Mitigation Plan
 
 For which teammate did you implement “Microservice A”? **_ Jedidiah Backus_**
 What is the current status of the microservice? Hopefully, it’s done!
