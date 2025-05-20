@@ -63,6 +63,17 @@ V. The app provides BMI info to the User. Lifecycle terminated.
 ![image](https://github.com/user-attachments/assets/68391881-c5a0-464d-89e0-6c22b489c9b1)
 
 
+_**Mitigation Plan**_
+
+For which teammate did you implement “Microservice A”? **_ Jedidiah Backus_**
+What is the current status of the microservice? Hopefully, it’s done!
+If the microservice isn’t done, which parts aren’t done and when will they be done?
+How is your teammate going to access your microservice? Should they get your code from GitHub (if so, provide a link to your public or private repo)? Should they run your code locally? Is your microservice hosted somewhere? Etc.
+If your teammate cannot access/call YOUR microservice, what should they do? Can you be available to help them? What’s your availability?
+If your teammate cannot access/call your microservice, by when do they need to tell you? Provide a specific date to ensure they have a clear deadline.
+Is there anything else your teammate needs to know? Anything you’re worried about? Any assumptions you’re making? Any other mitigations / backup plans you want to mention or want to discuss with your teammate?
+
+
 
 
    
